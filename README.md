@@ -45,6 +45,8 @@ This project presents an end-to-end analysis of a fashion e-commerce store cover
 
 - Final dashboard presentation
 - PDF project report
+- the completed excel workbook is available here:
+- https://1drv.ms/x/c/82621377f4991a24/IQDlF6aSuMS6S4zAQ7kcIAw4AWa-RQ7dL9qXopUnaYW0Sn8?e=RfhJ5o
 - Excel analysis workbook
 - Dashboard preview image
 
